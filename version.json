@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "0.0.0",
-  "apkUrl": "https://github.com/tomma-m/matinee-releases/releases/download/v0.0.0/matinee-0.0.0.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "releaseNotes": "No release yet.",
+  "versionCode": 101,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/tomma-m/matinee-releases/releases/download/v0.1.1-sonytest/matinee-101.apk",
+  "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "releaseNotes": "Bad hash test",
   "minVersionCode": null
 }
