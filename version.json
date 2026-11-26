@@ -1,8 +1,0 @@
-{
-  "versionCode": 100,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/tomma-m/matinee-releases/releases/download/v0.1.1-sonytest/matinee-101.apk",
-  "sha256": "3dcdc375a60cffe1fe64a14a898dd2c7e4508068fc96c8b4190b4c6c5e68d023",
-  "releaseNotes": "Re-pin test",
-  "minVersionCode": null
-}
